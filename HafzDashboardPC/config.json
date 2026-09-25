@@ -1,0 +1,108 @@
+{
+  "profiles": {
+    "default": [
+      {
+        "icon": "spotify",
+        "label": "Spotify",
+        "endpoint": "/spotify",
+        "color": "green"
+      },
+      {
+        "icon": "chrome",
+        "label": "Chrome",
+        "endpoint": "/chrome",
+        "color": "blue"
+      },
+      {
+        "icon": "file",
+        "label": "Files",
+        "endpoint": "/file",
+        "color": "orange"
+      },
+      {
+        "icon": "wa",
+        "label": "WhatsApp",
+        "endpoint": "/whatsapp",
+        "color": "purple"
+      }
+    ],
+    "chrome": [
+      {
+        "icon": "youtube",
+        "label": "YouTube",
+        "endpoint": "/youtube",
+        "color": "red"
+      },
+      {
+        "icon": "gmail",
+        "label": "Gmail",
+        "endpoint": "/gmail",
+        "color": "orange"
+      },
+      {
+        "icon": "google",
+        "label": "Google",
+        "endpoint": "/google",
+        "color": "blue"
+      },
+      {
+        "icon": "chrome",
+        "label": "New Tab",
+        "endpoint": "/chrome",
+        "color": "cyan"
+      }
+    ],
+    "spotify": [
+      {
+        "icon": "playpause",
+        "label": "Play/Pause",
+        "endpoint": "/media/playpause",
+        "color": "green"
+      },
+      {
+        "icon": "next",
+        "label": "Next",
+        "endpoint": "/media/next",
+        "color": "blue"
+      },
+      {
+        "icon": "prev",
+        "label": "Prev",
+        "endpoint": "/media/prev",
+        "color": "cyan"
+      },
+      {
+        "icon": "spotify",
+        "label": "Spotify",
+        "endpoint": "/spotify",
+        "color": "purple"
+      }
+    ],
+    "gaming": [
+      {
+        "icon": "discord",
+        "label": "Discord",
+        "endpoint": "/discord",
+        "color": "purple"
+      },
+      {
+        "icon": "taskmgr",
+        "label": "Task Manager",
+        "endpoint": "/taskmgr",
+        "color": "red"
+      },
+      {
+        "icon": "cmd",
+        "label": "CMD",
+        "endpoint": "/cmd",
+        "color": "orange"
+      },
+      {
+        "icon": "settings",
+        "label": "Settings",
+        "endpoint": "/settings",
+        "color": "blue"
+      }
+    ]
+  }
+}

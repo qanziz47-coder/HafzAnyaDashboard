@@ -1,4 +1,4 @@
-# 🎛️ HafzAnaDashboard — Android Stream Deck
+# 🎛️ HafzAnyaDashboard — Android Stream Deck
 
 **HafzAnaDashboard** adalah proyek aplikasi Android yang mengubah smartphone atau tablet menjadi **Stream Deck virtual** untuk mengontrol PC melalui jaringan lokal.
 
@@ -19,7 +19,7 @@ Proyek ini cocok untuk streamer, content creator, maupun pengguna yang ingin men
 
 ## 🏗️ Arsitektur Sistem
 
-HafzAnaDashboard menggunakan arsitektur **Client–Server**. Aplikasi Android mengirimkan perintah, kemudian server Python memproses permintaan tersebut di PC.
+HafzAnyaDashboard menggunakan arsitektur **Client–Server**. Aplikasi Android mengirimkan perintah, kemudian server Python memproses permintaan tersebut di PC.
 
 ```text
 ┌────────────────────────┐
@@ -64,7 +64,6 @@ HafzAnaDashboard menggunakan arsitektur **Client–Server**. Aplikasi Android me
 | Build System | Gradle Kotlin DSL | Mengelola proses build Android |
 | IDE | Android Studio | Pengembangan dan pengujian aplikasi |
 
-*Catatan: Tabel ini menggambarkan teknologi yang direncanakan atau disebutkan dalam dokumentasi. Implementasi aktual perlu disesuaikan dengan kode sumber proyek.*
 
 ## 📂 Struktur Proyek
 
@@ -78,7 +77,6 @@ HafzAnaDashboard/
 └── README.md             # Dokumentasi proyek
 ```
 
-Struktur di atas merupakan gambaran umum. Nama file dan folder dapat berbeda sesuai struktur repositori yang sebenarnya.
 
 ## ⚙️ Cara Menjalankan Proyek
 
@@ -143,7 +141,7 @@ Pastikan server berhasil berjalan dan mencatat port yang digunakan sebelum melan
 **Langkah 1 — Clone repositori**
 
 ```bash
-git clone https://github.com/qanziz47-coder/HafzAnaDashboard.git
+git clone https://github.com/qanziz47-coder/HafzAnyaDashboard.git
 ```
 
 **Langkah 2 — Buka proyek**
@@ -254,7 +252,7 @@ Buka repositori hasil fork di GitHub, lalu ajukan Pull Request ke repositori uta
 
 ## 📄 Lisensi
 
-Lisensi proyek belum ditentukan. Penggunaan, modifikasi, dan distribusi kode harus mengikuti ketentuan yang ditetapkan oleh pemilik repositori.
+Lisensi proyek belum ditentukan.
 
 ## 👨‍💻 Pengembang
 
@@ -262,7 +260,7 @@ Lisensi proyek belum ditentukan. Penggunaan, modifikasi, dan distribusi kode har
 
 GitHub: [github.com/qanziz47-coder](https://github.com/qanziz47-coder)
 
-Repositori: [HafzAnaDashboard](https://github.com/qanziz47-coder/HafzAnaDashboard)
+Repositori: [HafzAnyaDashboard](https://github.com/qanziz47-coder/HafzAnyaDashboard)
 
 ---
 

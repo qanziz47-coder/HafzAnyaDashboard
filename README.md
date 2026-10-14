@@ -68,7 +68,7 @@ HafzAnyaDashboard menggunakan arsitektur **Client–Server**. Aplikasi Android m
 ## 📂 Struktur Proyek
 
 ```text
-HafzAnaDashboard/
+HafzAnyaDashboard/
 ├── app/                  # Kode sumber aplikasi Android
 ├── HafzDashboardPC/      # Server Python untuk PC
 ├── gradle/               # Konfigurasi Gradle Wrapper
